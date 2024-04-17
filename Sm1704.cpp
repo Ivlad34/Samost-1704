@@ -1,6 +1,5 @@
 ﻿#include <iostream>
 #include <vector>
-#include <algorithm>
 using namespace std;
 
 void Fier(vector <int> n, int v ) {
