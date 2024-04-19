@@ -19,5 +19,5 @@ int main()
     int n = 1;
     vector <int> i2 = Fier(i, n);
     // vector <int> proverka = { 2,3,4,5 }; 
-    // ASSERT_EQ(i2, actual); 
+    // ASSERT_EQ(i2, proverka); 
 }
